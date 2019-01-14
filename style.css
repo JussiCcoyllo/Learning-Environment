@@ -1,8 +1,8 @@
 div{
     float:left;
-    width: 300px;
-    height: 100px;
+    width: 800px;
+    height: 600px;
     margin: 4px;
-    color: #FFF;
-    background:-moz-linear-gradient(blue,yellow,green,pink,white)
+    color: black;
+    background:linear-gradient(DeepSkyBlue, White);
 }
